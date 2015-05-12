@@ -1,0 +1,131 @@
+Curriculum Vitae
+================
+
+Gastón A. Avila, PhD.
+=====================
+
+
+# Personal Information:
+
+* Date of Birth: 16th of august 1982
+* Place of Birth: Córdoba Capital, Córdoba, Argentina
+* Nacionalities: Argentine, Italian
+* Work address: Humberto primo 700, Córdoba, Argentina
+* Private address: 9 de Julio 2108, 2do A, Cordoba, Argentina
+* Phone Number: +549 3512 055 880
+* E-mail: avila.gas@gmail.com
+
+
+# Education
+
+* (2008.05.04 - 2011.10.19) Graduate School: PhD. Student, Potsdam
+University, Germany. Adviser: Prof. Helmut Friedrich. Supported by and carried
+out at: Max Planck Institute for Gravitational Physics (Albert Einstein Institute)
+
+* (2002.04 - 2008.04) University: Licenciatura en Física, FaMAF,
+Universidad Nacional de Córdoba, Argentina. Average grade obtained 9.57 out of
+10. Graduated on the 2008.03.27.
+
+* (1996 - 2001) High School: Bachiller Técnico Metal-Meácnico especialista en 
+Máquinas Herramienta, Instituto Técnico Renault, Córdoba,
+Argentina. Graduated with the highest average grade of the class of 2011.
+
+
+
+# Teaching Experience
+
+ * (2010.03 - 2010.09) Teaching Assistant: Classical Mechanics. Potsdam
+University, Germany.
+* (2007.03 - 2008.03) Teaching Assistant (Type A). FaMAF, UNC, Argentina.
+* (2005.03 - 2007.03) Teaching Assistant (Type B). FaMAF, UNC, Argentina.
+
+
+# Informatics skills
+
+* OSs: Linux (Ubuntu), Mac OS X
+* Languages: Python, JavaScript, SQL, Html5, CSS
+* GIS, geolocation: OpenStreetMap, JOSM, Merkaartor, Maperitive, Mapnik
+* Client side Web frameworks: Backbone.js, Angular.js, Openlayers.js, Google Maps API 
+v3
+* Server side Web: WSGI Python (Flask, Bottle), Node.js (Express.js), 
+RESTful APIs using SWAGGER,
+* Databases: PostgreSQL, SQLite, mongoDB,
+
+
+
+# Work experience
+
+* (08/2014 -- now) Sistemas Globales S. A., web UI analyst Senior. 
+Tech Lead in hybrid proyect using angularjs + cordova for iPhone. Client: Virgin Mega
+* (04/2014 -- now) Ministerio de Transporte de la Provincia de Mendoza, 
+ technical advisor in applications to public transit. Web apps for geo-location, data analysis and modeling.
+* (04/2013 -- 08/2014) Sistemas Globales S. A., web UI analyst. 
+Tech Lead in node.js + Backbone.js. Client: Thomas Cook
+* (12/2011 -- 06/2014) Municipalidad de Córdoba, technical advisor in applications to public transit.
+ Comisión de Movilidad Integral. Web apps for geo-location, data analysis and modeling.
+* (04/2008 -- 11/2011) Max Planck Institute for Gravitational Physics
+(Albert Einstein Institute)
+
+
+
+# Languages
+
+* Spanish: Native.
+* English: Reads, writes and speaks
+
+
+
+# Publications
+
+* Asymptotic staticity and tensor decompositions with fast
+decay conditions,
+(Doctoral disertation),
+Gastón A Avila, PhD.
+Institutional Repository of the University of Potsdam,
+http://opus.kobv.de/ubp/volltexte/2011/5404/
+07.10.2011.
+
+* The Yamabe invariant for axially symmetric initial data of two Kerr black holes.
+Gastón A Avila and Sergio Dain.
+Classical and Quantum Gravity, 25(22):225002 (13pp), 2008.
+
+
+
+# Talks
+
+* Tensor decompositions with fast decay conditions at space-like infinity, Grav11 - FaMAF, Córdoba, Argentina. 11/04/2011.
+
+* Tensor decompositions with fast decay conditions at space-like
+infinity}, Workshop on Mathematical Relativity - ESI, Vienna, Austria.
+28/01/2011.
+
+* The Yamabe invariant for axially symmetric two Kerr black holes initial data, Grav09 - Córdoba Argentina. 15/04/2009.
+
+
+
+# Scientific Meetings
+
+* Grav11, Congress on General Relativity and Gravitation (FaMAF),
+La Cumbre, Córdoba, Argentina. 11/04/2011 - 15/04/2009. 
+
+* Workshop on Mathematical Relativity, International Centre for Mathematical Science - Edinburgh, UK. 1/09/2009 - 7/09/2010.
+
+* Seminar on Mathematical Relativity - Erwin Schroedinger Institute, Vienna, Austria. 27/01/2011 - 29/01/2011.
+
+* Space, Time and Beyond. Conference in honor of Helmut Friedrich's birthday.
+08/10/2009 - 09/10/2009.
+
+* Grav09, Congress on General Relativity and Gravitation, FaMAF, Córdoba, Argentina. 13/04/2009 - 17/04/2009.
+
+* Grav07, Congress on General Relativity and Gravitation, FaMAF, Córdoba, Argentina. 5/11/2007 - 7/11/2007.
+
+* Grav06, Fifty years of FaMAF Workshop on Global Problems in GR, FaMAF, Córdoba, Argentina. 6/10/2006 - 11/10/2006.
+
+
+
+# Honors
+
+* Graduated Top of the class 2001 - Instituto Técnico Renault,
+
+* Awarded Academic Excellence Price 2001, by Banco Roela, Argentina.
+
