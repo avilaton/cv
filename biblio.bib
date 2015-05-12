@@ -1,0 +1,988 @@
+% bibliography- Sergio Dain
+% Usar preferentemente habbrv.bst, hplain.bst o algún estilo que incluya 
+% el campo  eprint.   
+% 
+% Agregué el campo "archivo" donde figura el nombre del archivo del artículo 
+%  en el directorio otrospapers.
+%
+% Para el futuro,  poner siempre el mismo nombre a  los archivos con los 
+% artículos y palabras claves:
+% nombre del autor, primera letra en mayúscula seguido de las dos últimas 
+% cifras del año, por ejemplo: Zeidler95, si se repite poner: Zeidler95b, etc. 
+%  El primero no lleva "a", para no 
+%  tener que cambiarlo después. 
+%
+% Tratar de ordenar las entradas viejas también así, 
+% no importa que cambien algunas claves porque los
+% artículos viejos deberían tener todas las referencias incluidas. 
+%     
+% Si se mezclan minúsculas y mayúsculas luego no se ordenan bien alfabéticamente: 
+% el orden lo dan las palabras clave. 
+% 
+% Si los archivos vienen del jmp,  prd o del cd de Gabriel dejarlos 
+% se los puede dejar como están, 
+% pero si se le cambia el nombre mejor porque es más fácil encontrarlos.   
+% A los del cqg y otras revistas hay que cambiarles el nombre porque 
+% si no es imposible encontrarlos 
+% 
+
+% Usar C-c C-c para limpiar las entradas (y generar la clave que sale bien).
+% C-c C-k para borrar un campo. 
+%
+
+
+%Abreviaturas de las revistas
+@string{cpam = {Comm.  Pure  App. Math.}}
+@string{prl = {Phys. Rev. Lett.}}
+@string{pr = {Phys. Rev.}}
+@string{cqg = {Class. Quantum. Grav.}}
+@string{prd = {Phys. Rev. D}}
+@string{cmp = {Commun. Math. Phys.}}
+@string{prsl = {Proc. R. Soc. London}}
+@string{jpa = {J. Phys. A}}
+@string{jmp = {J. Math. Phys.}}
+@string{grg = {Gen. Rel. Grav.}}
+@string{jdg = {J. Differential Geometry}}
+@string{ap = {Ann. Phys.}}
+@string{apj = {Ap. J}}
+
+@article{McOwen79,
+author="McOwen, Robert C.",
+title="{The behavior of the Laplacian on weighted Sobolev spaces.}",
+language="English",
+journal="Commun. Pure Appl. Math. ",
+volume="32",
+pages="783-795",
+year="1979",
+keywords="{Laplace operator; weighted Sobolev spaces; Fredholm operator}",
+classmath="{*35J05 (Laplace equation, etc.)
+46E35 (Sobolev spaces and generalizations)
+47A53 ((Semi-)Fredholm operators; index theories)
+}",
+}
+
+@book{Besse1987,
+author="Besse, Arthur L.",
+title="{Einstein manifolds. Reprint of the 1987 edition.}",
+language="English",
+publisher="{Classics in Mathematics. Berlin: Springer. xii, 516~p.}",
+year="2008",
+classmath="{*53-02 (Research monographs (differential geometry))
+53C25 (Special Riemannian manifolds)
+53C55 (Complex differential geometry (global))
+53C30 (Homogeneous manifolds)
+58J60 (Relations with special manifold structures)
+53C20 (Riemannian manifolds (global))
+}",
+}
+
+@article{Christodoulou81,
+author="Christodoulou, D. and O'Murchadha, N.",
+title="{The boost problem in general relativity.}",
+language="English",
+journal="Commun. Math. Phys. ",
+volume="80",
+pages="271-300",
+year="1981",
+keywords="{asymptotically flat initial data; Einstein field equations}",
+classmath="{*35Q99 (PDE of mathematical physics and other areas)
+83C05 (Einstein's equations)
+}",
+}
+
+@article{Choquet1981,
+author="Choquet-Bruhat, Y. and Christodoulou, D.",
+title="{Elliptic systems in H(s,delta) spaces on manifolds which are Euclidean
+    at infinity.}",
+language="English",
+journal="Acta Math. ",
+volume="146",
+pages="129-150",
+year="1981",
+keywords="{tensor bundle; elliptic differential systems of order m on
+    non-compact manifolds which are euclidean at infinity in weighted Sobolev
+    spaces; closed range; finite kernel and isomorphism theorems}",
+classmath="{*58J10 (Differential complexes)
+35J45 (Systems of elliptic equations, general)
+46E35 (Sobolev spaces and generalizations)
+}",
+}
+
+@article{Bartnik1986,
+author="Bartnik, Robert",
+title="{The mass of an asymptotically flat manifold.}",
+language="English",
+journal="Commun. Pure Appl. Math. ",
+volume="39",
+pages="661-693",
+year="1986",
+abstract="{We show that the mass of an asymptotically flat n-manifold is a
+    geometric invariant. The proof is based on harmonic coordinates and, to
+    develop a suitable existence theory, results about elliptic operators with
+    rough coefficients on weighted Sobolev spaces are summarised. Some relations
+    between the mass, scalar curvature and harmonic maps are described and the
+    positive mass theorem for n-dimensional spin manifolds is proved.}",
+keywords="{asymptotically flat n-manifold; elliptic operators; mass; scalar
+    curvature; harmonic maps; positive mass theorem; spin manifolds}",
+classmath="{*53C20 (Riemannian manifolds (global))
+58E20 (Harmonic maps between infinite-dimensional spaces)
+58J99 (None of the above, but in this section)
+}",
+}
+
+@misc{Bartnik2004,
+author="Bartnik, Robert and Isenberg, Jim",
+title="{The constraint equations.}",
+language="English",
+howpublished="{Chru\'sciel, Piotr T. (ed.) et al., The Einstein equations and
+    the large scale behavior of gravitational fields. 50 Years of the Cauchy
+    problem in general relativity. With DVD. Basel: Birkh\"auser. 1-38
+    (2004).}",
+year="2004",
+reviewer="{Zbigniew Olszak (Wroc\l aw)}",
+keywords="{constraint equations; Einstein equations; conformal method;
+    quasi-spherical; thin sandwich}",
+classmath="{*83C05 (Einstein's equations)
+53C25 (Special Riemannian manifolds)
+53C50 (Lorentz manifolds, manifolds with indefinite metrics)
+}",
+}
+
+
+
+@book{Stein74,
+author="Stein, Elias M. and Weiss, Guido",
+title="{Introduction to Fourier analyis on Euclidean spaces. (Vvedenie v
+    garmoniceskii analiz na evklidovyh prostranstvah.) \"Ubersetzung aus dem
+    Englischen von V. V. Zarinov. Herausgegeben von E. D. Solomencev und S. B.
+    Steckin.}",
+language="Russian",
+publisher="{Moskau: Verlag 'Mir'. 336 S. R. 1.58 }",
+year="1974",
+classmath="{*42A24 (Summability of trigonometric series)
+42A16 (Fourier coefficients, etc.)
+42-01 (Textbooks (Fourier analysis))
+42A38 (Fourier type transforms, one variable)
+41A05 (Interpolation)
+41A30 (Approximation by other special function classes)
+}",
+}
+
+
+
+@book{Hoermander90,
+author="{Hoermander, Lars}",
+title="{The analysis of linear partial differential operators. I: Distribution
+    theory and Fourier analysis. Reprint of the 2nd edition 1990.}",
+language="English",
+year="2003",
+}
+
+
+@article{OMurchadha96,
+author="Beig, R. and \'O Murchadha, Niall",
+title="{The momentum constraints of general relativity and spatial conformal
+    isometries.}",
+language="English",
+journal="Commun. Math. Phys. ",
+volume="176",
+number="3",
+pages="723-738",
+year="1996",
+abstract="{Transverse-tracefree (TT) tensors on $(\bbfR^3$, $g_{ab})$ with
+    $g_{ab}$ an asymptotically flat metric of fast decay at infinity are
+    studied. When the source tensor from which these TT tensors are constructed
+    has fall-off at infinity, the TT tensor allows a multipole-type expansion.
+    When $g_{ab}$ has no conformal Killing vectors (CKV) it is proved that any
+    finite but otherwise arbitrary set of moments can be realized by a suitable
+    TT tensor. When CKV's exist then certain moments vanish.}",
+reviewer="{T.Singh (Varanasi)}",
+keywords="{momentum constraints; spatial conformal isometries; gravitational
+    energy; asymptotic structure; decay at infinity}",
+classmath="{*83C05 (Einstein's equations)
+83C40 (Groups of motions, etc.)
+83C25 (Approximation procedures (general relativity))
+}",
+}
+
+@article{Maxwell05,
+author="Maxwell, David",
+title="{Solutions of the Einstein constraint equations with apparent horizon
+    boundaries.}",
+language="English",
+journal="Commun. Math. Phys. ",
+volume="253",
+number="3",
+pages="561-583",
+year="2005",
+abstract="{Summary: We construct asymptotically Euclidean solutions of the
+    vacuum Einstein constraint equations with an apparent horizon boundary
+    condition. Specifically, we give sufficient conditions for the constant mean
+    curvature conformal method to generate such solutions. The method of proof
+    is based on the barrier method used by Isenberg for compact manifolds
+    without boundary, suitably extended to accommodate semilinear boundary
+    conditions and low regularity metrics. As a consequence of our results for
+    manifolds with boundary, we also obtain improvements to the theory of the
+    constraint equations on asymptotically Euclidean manifolds without
+    boundary.}",
+classmath="{*83C05 (Einstein's equations)
+58J45 (Hyperbolic equations)
+83C57 (Black holes)
+}",
+}
+
+@article{Morrey58,
+author="Morrey, Charles B.jun.",
+title="{On the analyticity of the solutions of analytic non-linear elliptic
+    systems of partial differential equations. I, II.}",
+language="English",
+year="1958",
+keywords="{partial differential equations}",
+}
+
+@article{Bartnik06,
+  author={Robert Bartnik and Paul Tod},
+  title={A note on static metrics},
+  journal={Classical and Quantum Gravity},
+  volume={23},
+  number={2},
+  pages={569-571},
+  url={http://stacks.iop.org/0264-9381/23/569},
+  year={2006},
+  abstract={Conditions are given which, subject to a genericity condition on the Ricci tensor, are both necessary and sufficent for a 3-metric to arise from a static spacetime metric.}
+}
+
+@article{Butscher2007,
+author={Butscher, Adrian},
+title={Perturbative solutions of the extended constraint equations in
+general relativity.},
+language="English",
+journal="Commun. Math. Phys. ",
+volume="272",
+number="1",
+pages="1-23",
+year="2007",
+abstract="{Summary: The extended constraint equations arise as a special case of
+    the conformal constraint equations that are satisfied by an initial data
+    hypersurface ${\mathcal{Z}}$ in an asymptotically simple space-time
+    satisfying the vacuum conformal Einstein equations developed by H.
+    Friedrich. The extended constraint equations consist of a quasi-linear
+    system of partial differential equations for the induced metric, the second
+    fundamental form and two other tensorial quantities defined on
+    ${\mathcal{Z}}$, and are equivalent to the usual constraint equations that
+    ${\mathcal{Z}}$ satisfies as a space-like hypersurface in a space-time
+    satisfying Einstein's vacuum equation. This article develops a method for
+    finding perturbative, asymptotically flat solutions of the extended
+    constraint equations in a neighbourhood of the flat solution on Euclidean
+    space. This method is fundamentally different from the `classical' method of
+    Lichnerowicz and York that is used to solve the usual constraint
+    equations.}",
+classmath="{*83C05 (Einstein's equations)
+35Q75 (PDE in relativity)
+58J45 (Hyperbolic equations)
+}",
+}
+
+
+@article{Dighton76,
+author="Dighton, Kenza",
+title="{Spinor methods in conformal Killing transport.}",
+language="English",
+year="1976",
+classmath="{*53C27 (Spin and Spin$^c$ geometry)
+}",
+}
+
+@book{Folland95,
+author="Folland, Gerald B.",
+title="{Introduction to partial differential equations. 2nd ed.}",
+language="English",
+publisher="{Princeton, NJ: Princeton University Press. xi, 324 p. \$ 39.50 }",
+year="1995",
+reviewer="{E.Feireisl (Praha)}",
+keywords="{Cauchy-Kowalevski theorem; Green function; potential theory; Sobolev
+    spaces; pseudodifferential operators; microlocal analysis}",
+classmath="{*35-01 (Textbooks (partial differential equations))
+35S05 (General theory of pseudodifferential operators)
+35Jxx (Elliptic equations and systems)
+35Kxx (Parabolic equations and systems)
+35Lxx (Hyperbolic equations and systems)
+}",
+}
+
+@misc{Butscher02,
+author="Butscher, Adrian",
+title="{Exploring the conformal constraint equations.}",
+language="English",
+howpublished="{Frauendiener, J\"org (ed.) et al., The conformal structure of
+    space-time. Geometry, analysis, numerics. Berlin: Springer. Lect. Notes
+    Phys. 604, 195-222 (2002).}",
+year="2002",
+abstract="{Summary: One method of studying the asymptotic structure of spacetime
+    is to apply Penrose's conformal rescaling technique. In this setting, the
+    rescaled Einstein equations for the metric and the conformal factor in the
+    unphysical spacetime degenerate where the conformal factor vanishes, namely
+    at the boundary representing null infinity. This problem can be avoided by
+    means of a technique of H. Friedrich, which replaces the Einstein equations
+    in the unphysical spacetime by an equivalent system of equations which is
+    regular at the boundary. The initial value problem for these equations
+    produces a system of constraint equations known as the conformal constraint
+    equations. This work describes some of the properties of the conformal
+    constraint equations and develops a perturbative method of generating
+    solutions near Euclidean space under certain simplifying assumptions.}",
+keywords="{asymptotic structure of spacetime; Penrose's conformal rescaling
+    technique; Einstein equations; conformal factor; boundary; initial value
+    problem}",
+classmath="{*83C05 (Einstein's equations)
+83C15 (Closed form solutions of equations in general relativity)
+}",
+}
+
+@book{Abraham88,
+author="Abraham, R. and Marsden, J.E. and Ratiu, T.",
+title="{Manifolds, tensor analysis, and applications. 2nd ed.}",
+language="English",
+publisher="{Applied Mathematical Sciences. 75. New York: Springer-Verlag. x, 654
+    p. }",
+year="1988",
+abstract="{See the first ed. in (1983; Zbl 0508.58001).}",
+keywords="{Frobenius theorem; ergodicity; Hamiltonian mechanics; fluid
+    mechanics; electrodynamics; thermodynamics; Hahn-Banach theorem; open
+    mapping theorem; complex Hilbert space; bibliography}",
+classmath="{*37-02 (Research exposition (Dynamical systems and ergodic theory))
+58Axx (General theory of differentiable manifolds)
+37Cxx (Smooth dynamical systems: general theory)
+70G45 (Differential-geometric methods)
+53A45 (Vector and tensor analysis)
+}",
+}
+
+
+@article{Mcowen1980,
+author="McOwen, Robert C.",
+title="{On elliptic operators in $R^n$.}",
+language="English",
+journal="Commun. Partial Differ. Equations ",
+volume="5",
+pages="913-933",
+year="1980",
+keywords="{perturbation of a constant coefficient operator; Sobolev spaces with
+    weights; distributions; singular integral operators; Fredholm index}",
+classmath="{*35J45 (Systems of elliptic equations, general)
+35J30 (Higher order elliptic equations, general)
+35G05 (General theory of linear higher-order PDE)
+35R20 (Partial operator-differential equations)
+46E35 (Sobolev spaces and generalizations)
+47A53 ((Semi-)Fredholm operators; index theories)
+}",
+}
+
+@article{Lockhart1983,
+author="Lockhart, Robert B. and McOwen, Robert C.",
+title="{On elliptic systems in $R\sp n.$.}",
+language="English",
+journal="Acta Math. ",
+volume="150",
+pages="125-135",
+year="1983",
+keywords="{Fredholm operator; decay; weight Sobolev spaces}",
+classmath="{*35J45 (Systems of elliptic equations, general)
+35B40 (Asymptotic behavior of solutions of PDE)
+35E20 (General theory of PDE with constant coefficients)
+46E35 (Sobolev spaces and generalizations)
+47A53 ((Semi-)Fredholm operators; index theories)
+}",
+}
+
+@article{Lockhart1981,
+author="Lockhart, Robert B.",
+title="{Fredholm properties of a class of elliptic operators on non-compact
+    manifolds.}",
+language="English",
+journal="Duke Math. J. ",
+volume="48",
+pages="289-312",
+year="1981",
+keywords="{Fredholm alternative; weighted Sobolev spaces; non-compact
+    manifold}",
+classmath="{*35J30 (Higher order elliptic equations, general)
+58J20 (Index theory and related fixed point theorems)
+35R20 (Partial operator-differential equations)
+}",
+}
+@article{Lockhart1985,
+author="Lockhart, Robert B. and McOwen, Robert C.",
+title="{Elliptic differential operators on noncompact manifolds.}",
+language="English",
+journal="Ann. Sc. Norm. Super. Pisa, Cl. Sci., IV. Ser. ",
+volume="12",
+pages="409-447",
+year="1985",
+reviewer="{D.Yang}",
+keywords="{elliptic differential operators; noncompact manifolds; weighted
+    Sobolev spaces; global analysis}",
+classmath="{*58J99 (None of the above, but in this section)
+}",
+}
+
+@misc{Dain2006,
+author="Dain, Sergio",
+title="{Elliptic systems.}",
+language="English",
+howpublished="{Frauendiener, J\"org (ed.) et al., Analytical and numerical
+    approaches to mathematical relativity. Papers based on the presentation at
+    the 319th WE-Heraeus seminar `Mathematical relativity: New ideas and
+    developments', Bad Honnef, Germany, March 1--5, 2004. With a foreword by
+    Roger Penrose. Berlin: Springer. Lecture Notes in Physics 692, 117-139
+    (2006).}",
+year="2006",
+abstract="{The author reviews the basic results on elliptic boundary values
+    problems with applications to General Relativity. Particularly, a general
+    theorem is reviewed, proved in: [{\it L. H\"ormander}, The analysis of
+    linear partial differential operators. III: Pseudo-differential operators.
+    Grund\-leh\-ren der Mathematischen Wissenschaften, 274. Berlin etc.:
+    Springer-Verlag (1985; Zbl 0601.35001)], which states, that if we have a
+    linear elliptic system $L(u)$, which satisfies a complementing condition on
+    every point of the boundary, then the operator $A(u)= (L(u), B(u))$ is
+    Fredholm. Few types of boundary operators are considered.}",
+reviewer="{Alex Gaina (Chisinau)}",
+keywords="{General relativity; elliptic boundary values problems; second order
+    elliptic equations; systems of second order elliptic equations; Dirichlet
+    boundary-value problem; Neumann boundary-value problem}",
+classmath="{*58J05 (Elliptic equations on manifolds, general theory)
+35-02 (Research monographs (partial differential equations))
+35Q75 (PDE in relativity)
+83C05 (Einstein's equations)
+35J55 (Systems of elliptic equations, boundary value problems)
+}",
+}
+
+@article{Huebner01,
+author="{H\"ubner, Peter}",
+title="{From now to timelike infinity on a finite grid.}",
+language="English",
+journal="Classical Quantum Gravity ",
+volume="18",
+number="10",
+pages="1871-1884",
+year="2001",
+abstract="{Summary: We use the conformal approach to numerical relativity to
+    evolve hyperboloidal gravitational wave data without any symmetry
+    assumptions. Although our grid is finite in space and time, we cover the
+    whole future of the initial data in our calculation, including future null
+    and future timelike infinity.}",
+keywords="{conformal approach; numerical relativity; gravitational wave; initial
+    data; future timelike infinity}",
+classmath="{*83C05 (Einstein's equations)
+83-08 (Computational methods (relativity))
+83C35 (Gravitational waves)
+}",
+}
+
+
+@Article{ Huebner01,
+	author = "Peter Hubner",
+	title = "{From now to timelike infinity on a finite grid.}",
+	language = "English",
+	journal = "Classical Quantum Gravity ",
+	volume = "18",
+	number = "10",
+	pages = "1871--1884",
+	year = "2001",
+	abstract = "{Summary: We use the conformal approach to numerical relativity to evolve hyperboloidal gravitational wave data without any symmetry assumptions. Although our grid is finite in space and time, we cover the whole future of the initial data in our calculation, including future null and future timelike infinity.}",
+	keywords = "{conformal approach, numerical relativity, gravitational wave, initial data, future timelike infinity}",
+	classmath = "{*83C05 (Einstein's equations) 83-08 (Computational methods (relativity)) 83C35 (Gravitational waves) }"
+}
+
+@Article{Corvino2000,
+	title = "{Scalar Curvature Deformation and a Gluing Construction for the Einstein Constraint Equations}",
+	author = "J. Corvino",
+	journal = "Communications in Mathematical Physics",
+	volume = "214",
+	number = "1",
+	pages = "137--189",
+	year = "2000",
+	publisher = "Springer"
+}
+
+
+@InProceedings{ corvino2007eas,
+	title = "{On the Existence and Stability of the Penrose Compactification}",
+	author = "J. Corvino",
+	booktitle = "Annales Henri Poincare",
+	volume = "8",
+	number = "3",
+	pages = "597--620",
+	year = "2007",
+	organization = "Springer"
+}
+
+@article{Omurchadha1986,
+	author = "{Niall \'{O} Murchadha}",
+	collaboration = {},
+	title = {Total energy momentum in general relativity},
+	publisher = {AIP},
+	year = {1986},
+	journal = {Journal of Mathematical Physics},
+	volume = {27},
+	number = {8},
+	pages = {2111-2128},
+	keywords = {GENERAL RELATIVITY THEORY; ENERGYMOMENTUM TENSOR; EINSTEIN FIELD EQUATIONS; SPACETIME; METRICS; ASYMPTOTIC SOLUTIONS; CONSERVATION LAWS; INVARIANCE PRINCIPLES; RIEMANN SPACE},
+	url = {http://link.aip.org/link/?JMP/27/2111/1},
+	doi = {10.1063/1.527394}
+}
+
+@article{Kennefick95,
+author="Kennefick, Daniel and \'O Murchadha, Niall",
+title="{Weakly decaying asymptotically flat static and stationary solutions to
+    the Einstein equations.}",
+language="English",
+journal="Classical Quantum Gravity ",
+volume="12",
+number="1",
+pages="149-158",
+year="1995",
+abstract="{Summary: The assumption that a solution to the Einstein equations is
+    static (or stationary) very strongly constrains the asymptotic behaviour of
+    the metric. It is shown that one need only impose very weak
+    differentiability and decay conditions a priori on the metric for the field
+    equations to force the metric to be analytic near infinity and to have the
+    standard Schwarzschildian fall-off.}",
+keywords="{Einstein equations; asymptotic behaviour of the metric;
+    differentiability}",
+classmath="{*83C05 (Einstein's equations)
+}",
+}
+
+@Article{York03,
+  title = {Extrinsic curvature and the Einstein constraints},
+  author = {Pfeiffer, Harald P. and York, James W.},
+  journal = {Phys. Rev. D},
+  volume = {67},
+  number = {4},
+  pages = {044022},
+  numpages = {8},
+  year = {2003},
+  month = {Feb},
+  doi = {10.1103/PhysRevD.67.044022},
+  publisher = {American Physical Society}
+}
+
+@Article{Choquet2000,
+  title = {Einstein constraints on asymptotically Euclidean manifolds},
+  author = {Choquet-Bruhat, Yvonne  and Isenberg, James  and York, James W.},
+  journal = {Phys. Rev. D},
+  volume = {61},
+  number = {8},
+  pages = {084034},
+  numpages = {20},
+  year = {2000},
+  month = {Mar},
+  doi = {10.1103/PhysRevD.61.084034},
+  publisher = {American Physical Society}
+}
+
+@article{Beig80,
+author="Beig, R. and Simon, W.",
+title="{Proof of a multiple conjecture due to Geroch.}",
+language="English",
+journal="Commun. Math. Phys. ",
+volume="78",
+pages="75-82",
+year="1980",
+keywords="{general relativity; space-time; field equations; multipole expansion;
+    Geroch moments}",
+classmath="{*53C50 (Lorentz manifolds, manifolds with indefinite metrics)
+53C80 (Appl. of global differential geometry to physics)
+83C05 (Einstein's equations)
+}",
+}
+
+
+@article{Beig00,
+author="Beig, Robert and Schmidt, Bernd",
+title="{Time-independent gravitational fields.}",
+language="English",
+howpublished="{Schmidt, Bernd G. (ed.), Einstein's field equations and their
+    physical implications. Selected essays in honour of J\"urgen Ehlers. Berlin:
+    Springer. Lect. Notes Phys. 540, 325-372 (2000).}",
+year="2000",
+abstract="{Aimed primarily at the physical audience, the paper represents a
+    survey of stationary spacetimes satisfying the conditions of being
+    chronological, connected, simply connected, and asymptotically flat. A
+    self-contained introduction to the geometry of stationary spacetimes opens
+    the paper. Then Lichnerowicz staticity and vacuum theorems are reviewed
+    (non-rotating implies static; empty implies flat). \par The central problem
+    of the paper may be described as transition from Newtonian to relativistic
+    for a given model of matter content. A substantial part is therefore devoted
+    to the study of purely relativistic multipole momenta, providing additional
+    degrees of freedom missing in the Newtonian limit. \par From another
+    perspective, the paper represents a survey of global results on spacetimes
+    generated by relativistic matter in uniform rotation (or rest).}",
+reviewer="{Michal Marvan (Opava)}",
+keywords="{stationary spacetime; Hensen potential; asymptotic flatness; angular
+    momentum moment; velocity of light; Newtonian limit}",
+classmath="{*83C20 (Classes of solutions of equations in general relativity)
+53C80 (Appl. of global differential geometry to physics)
+}",
+}
+
+@book{Frauendiener02,
+author="{Frauendiener, J\"org (ed.) and Friedrich, Helmut (ed.)}",
+title="{The conformal structure of space-time. Geometry, analysis, numerics.}",
+language="English",
+publisher="{Lecture Notes in Physics. 604. Berlin: Springer. xiv, 373 p. }",
+year="2002",
+abstract="{The articles of this volume will be reviewed individually.}",
+keywords="{Space-time; Geometry; Analysis; numerics}",
+classmath="{*00B15 (Collections of articles of miscellaneous specific interest)
+83-06 (Proceedings of conferences (relativity))
+}",
+}
+
+@article{Maxwell05,
+author="Maxwell, David",
+title="{Solutions of the Einstein constraint equations with apparent horizon
+    boundaries.}",
+language="English",
+journal="Commun. Math. Phys. ",
+volume="253",
+number="3",
+pages="561-583",
+year="2005",
+doi={10.1007/s00220-004-1237-x},
+abstract="{Summary: We construct asymptotically Euclidean solutions of the
+    vacuum Einstein constraint equations with an apparent horizon boundary
+    condition. Specifically, we give sufficient conditions for the constant mean
+    curvature conformal method to generate such solutions. The method of proof
+    is based on the barrier method used by Isenberg for compact manifolds
+    without boundary, suitably extended to accommodate semilinear boundary
+    conditions and low regularity metrics. As a consequence of our results for
+    manifolds with boundary, we also obtain improvements to the theory of the
+    constraint equations on asymptotically Euclidean manifolds without
+    boundary.}",
+classmath="{*83C05 (Einstein's equations)
+58J45 (Hyperbolic equations)
+83C57 (Black holes)
+}",
+}
+
+@article{Douglis55,
+author="Douglis, Avron and Nirenberg, Louis",
+title="{Interior estimates for elliptic systems of partial differential
+    equations.}",
+language="English",
+journal="Commun. Pure Appl. Math. ",
+volume="8",
+pages="503-538",
+year="1955",
+doi={10.1002/cpa.3160080406},
+keywords="{partial differential equations}",
+}
+
+@book{Zeidler1993,
+author="Zeidler, Eberhard",
+title="{Nonlinear functional analysis and its applications. Volume I:
+    Fixed-point theorems.}",
+language="English",
+publisher="{New York: Springer-Verlag. xxiii, 909 p. }",
+year="1993",
+abstract="{Endlich hat der Springer-Verlag den ersten Band des inzwischen
+    weltweit gesch\"atzten Zeidlerschen Gesamtkunstwerks in zweiter Auflage
+    herausgebracht. Der Inhalt ist gegen\"uber der 1. Auflage [New York:
+    Springer-Verlag (1986; Zbl 0583.47050)] unver\"andert, lediglich die
+    Bibliographie wurde um 12 Seiten erg\"anzt. Es besteht kein Zweifel, da{\ss}
+    weitere Auflagen folgen werden.}",
+reviewer="{J.Appell (W\"urzburg)}",
+keywords="{nonlinear functional analysis; fixed-point theorems}",
+classmath="{*47H10 (Fixed point theorems for nonlinear operators on topol.linear
+    spaces)
+47-02 (Research monographs (operator theory))
+46-02 (Research monographs (functional analysis))
+54H25 (Fixed-point theorems in topological spaces)
+58C30 (Fixed point theorems on manifolds)
+}",
+}
+
+@book{Kato1995,
+  title={{Perturbation theory for linear operators}},
+  author={Kato, T.},
+  year={1995},
+  publisher={Springer}
+}
+
+@book{Adams1975,
+  title={{Sobolev spaces}},
+  author={Adams, R.A.},
+  year={1975},
+  publisher={New York}
+}
+
+@book{Rudin1991,
+  title={{Functional analysis}},
+  author={Rudin, W.},
+  year={1991},
+  journal={McGraw-Hill, 1991}
+}
+
+
+@book{egorov1991c,
+  title={{Partial Differential Equations III, Encyclopedia of Mathematical Sciences, Vol. 32}},
+  author={Egorov, Y.V. and Subin, MA},
+  year={1991},
+  publisher={Springer Verlag}
+}
+
+@book{egorov1991,
+  title={{Partial Differential Equations, volume I of Encyclopedia of Mathematical Sciences}},
+  author={Egorov, Y.V. and Shubin, MA},
+  year={1991},
+  publisher={Springer, New York}
+}
+
+@article{Cantor1981,
+author="Cantor, Murray",
+title="{Elliptic operators and the decomposition of tensor fields.}",
+language="English",
+journal="Bull. Am. Math. Soc., New Ser. ",
+volume="5",
+pages="235-262",
+year="1981",
+doi={10.1090/S0273-0979-1981-14934-X},
+keywords="{elliptic operators; decomposition of tensor fields; decomposition
+    theorem for Sobolev spaces of sections over compact manifolds; Fredholm
+    alternative for elliptic operators on Sobolev spaces over compact manifolds;
+    Sobolev spaces of tensors over Euclidean-space; weighted Sobolev spaces;
+    asymptotically euclidean manifolds}",
+classmath="{*58J10 (Differential complexes)
+58A14 (Hodge theory (global analysis))
+58A99 (General theory of differentiable manifolds)
+35J30 (Higher order elliptic equations, general)
+35Q30 (Stokes and Navier-Stokes equations)
+46E15 (Banach spaces of functions defined by smoothness properties)
+46E35 (Sobolev spaces and generalizations)
+58D05 (Groups of diffeomorphisms and homeomorphisms as manifolds)
+}",
+}
+@article{Cantor1975,
+author="Cantor, M.",
+title="{Spaces of functions with asymptotic conditions on $\mathbb{R}^n$.}",
+language="English",
+journal="Indiana Univ. Math. J. ",
+volume="24",
+pages="897-902",
+year="1975",
+doi={10.1512/iumj.1975.24.24072},
+keywords="{surjectivity of the Laplacian; existence theory in fluid mechanics
+    and general relativity; Sobolev spaces; H\"older spaces; asymptotic
+    conditions; splitting}",
+classmath="{*46E35 (Sobolev spaces and generalizations)
+58D05 (Groups of diffeomorphisms and homeomorphisms as manifolds)
+47F05 (Partial differential operators)
+}",
+}
+
+
+
+
+@Book{Wald1984,
+  author =	 {Robert M. Wald},
+  title =	 {General Relativity},
+  publisher =	 {The University of Chicago Press},
+  year =	 1984,
+  address =	 {Chicago},
+  archivo =	 {Wald84.djvu},
+  zbl =		 {0549.53001}
+}
+
+@book{Szekeres2004,
+author="Szekeres, Peter",
+title="{A course in modern mathematical physics. Groups, Hilbert space and
+    differential geometry.}",
+language="English",
+publisher="{Cambridge: Cambridge University Press. xvi, 600~p.}",
+year="2004",
+reviewer="{Helmut Rumpf (Wien)}",
+keywords="{mathematical methods in physics; groups; Hilbert space; differential
+    geometry}",
+classmath="{*00A05 (General mathematics)
+81-01 (Textbooks (quantum theory))
+83-01 (Textbooks (relativity))
+}",
+
+@article{ Hebey1997,
+  author = "Emmanuel Hebey and Michel Vaugon"
+  title = {Sobolev spaces in the presence of symmetries},
+  journal = {Journal de Mathématiques Pures et Appliqués},
+  volume = "76",
+  number = "10",
+  pages = "859 - 881",
+  year = "1997",
+  note = "",
+  issn = "0021-7824",
+  doi = "DOI: 10.1016/S0021-7824(97)89975-8",
+  url =
+ 
+"http://www.sciencedirect.com/science/article/B6VMD-3V7NPT5-Y/2/3bdbd2ece9459956
+  0c905ae47f300f6d",
+}
+
+@article{Erkip1992,
+title = "Normal solvability of elliptic boundary value problems on
+asymptotically flat manifolds",
+journal = "Journal of Functional Analysis",
+volume = "109",
+number = "1",
+pages = "22 - 51",
+year = "1992",
+note = "",
+issn = "0022-1236",
+doi = "DOI: 10.1016/0022-1236(92)90010-G",
+url =
+"http://www.sciencedirect.com/science/article/B6WJJ-4CX08T2-D9/2/58db08a202cea00
+eea7fec135811ef20",
+author = "Albert K. Erkip and Elmar Schrohe"
+}
+
+@article{Andersson1989,
+author="Andersson, Lars",
+title="{On the space of asymptotically Euclidean metrics.}",
+language="English",
+journal="Compos. Math. ",
+volume="69",
+number="1",
+pages="61-81",
+year="1989",
+abstract="{The paper aims to extend the theory of the space of Riemannian
+    metrics on a compact manifold (due, in particular, to Ebin and Bourguignon)
+    to the case of asymptotically Euclidean metrics on ${\bbfR}\sp n$. The main
+    result of the paper is a slice theorem for the action of the group ${\frak
+    D}$ of asymptotically Euclidean diffeomorphisms of ${\bbfR}\sp n$ on the
+    space ${\frak M}$ of all such metrics. This and other results of the paper
+    should serve as a foundation for the analysis of the factor space ${\frak
+    M}/{\frak D}$. The details of this analysis are postponed to a future
+    paper.}",
+reviewer="{N.V.Ivanov}",
+keywords="{space of metrics; group of diffeomorphisms; asymptotically Euclidean
+    metrics}",
+classmath="{*58D17 (Manifolds of metrics)}",
+}
+
+@article{Corvino2006,
+  author   = {Corvino, J. and Schoen, R.M.},
+  eprint   = {gr-qc/0301071},
+  format   = {print},
+  journal  = {J. Differ. Geom.},
+  keywords = {Asymptotics, Cauchy problem, General relativity, Asymptotic
+structure, Constraints, Elliptic equations, Mathematical methods, Constraint
+equations, Kerr solution},
+  pages    = {185--217},
+  refdb_id = {http://relativity.livingreviews.org/refdb/record/7506},
+  title    = {On the asymptotics for the vacuum Einstein constraint equations},
+  volume   = {73},
+  year     = {2006}
+}
+@article{Chrusciel2002,
+  author   = {Chru\'sciel, P.T. and Delay, E.},
+  doi      = {10.1088/0264-9381/19/9/101},
+  eprint   = {gr-qc/0203053},
+  format   = {print},
+  journal  = {Class. Quantum Grav.},
+  keywords = {Asymptotic structure, Constraints, Elliptic equations,
+Mathematical methods},
+  pages    = {L71--L79},
+  refdb_id = {http://relativity.livingreviews.org/refdb/record/7543},
+  title    = {Existence of non-trivial, vacuum, asymptotically simple
+space-times},
+  volume   = {19},
+  year     = {2002}
+}
+
+@article{specoviusneugebauer1990,
+author="Specovius-Neugebauer, Maria",
+title="{The Helmholtz decompostion of weighted $L\sp r$-spaces.}",
+language="English",
+journal="Commun. Partial Differ. Equations ",
+volume="15",
+number="3",
+pages="273-288",
+year="1990",
+doi={10.1080/03605309908820687},
+abstract="{This paper deals with the decomposition of vector fields into
+    solenoidal vector fields and gradient fields. This decomposition is
+    important in the theory of fluid mechanics and electromagnetism. \par
+    Consider a vector field defined on an exterior domain $\Omega \subset
+    {\bbfR}\sp n$ with $3\le n$. The author studies the decomposition of such a
+    vector field which is in a weighted $L\sp p$ space into a solenoidal
+    (divergence-free) vector field and an irrotational (curl-free) vector
+    field.}",
+reviewer="{A.J.Meir}",
+keywords="{decomposition of vector fields into solenoidal vector fields and
+    gradient fields; fluid mechanics; electromagnetism; weighted $L\sp p$ space;
+    divergence-free; curl-free}",
+classmath="{*46E30 (Spaces of measurable functions)
+46E35 (Sobolev spaces and generalizations)
+46E40 (Spaces of vector-valued functions)
+35K55 (Nonlinear parabolic equations)
+35Q30 (Stokes and Navier-Stokes equations)
+}",
+}
+
+@book{Palais1965,
+author="Palais, R.S.",
+title="{Seminar on the Atiyah-Singer index theorem. With contributions by M. F.
+    Atiyah, A. Borel, E. E. Floyd, R. T. Seeley, W. Shih and R. Solovay.}",
+language="English",
+publisher="{Princeton, N. J.: Princeton University Press. X, 366 p. }",
+year="1965",
+keywords="{topology}",
+}
+
+@article{Reula1982,
+author="Reula, Oscar",
+title="{Existence theorem for solutions of Witten's equation and nonnegativity
+    of total mass.}",
+language="English",
+journal="J. Math. Phys. ",
+volume="23",
+pages="810-814",
+year="1982",
+doi={10.1063/1.525421},
+keywords="{positive mass conjecture; Witten's equation}",
+classmath="{*53B50 (Appl. of local differential geometry to physics)
+83C05 (Einstein's equations)
+83C30 (Asymptotic procedures (general relativity))
+}",
+}
+
+
+@book{Lichnerowicz1955,
+author="Lichnerowicz, A.",
+title="{Th\'eories relativistes de la gravitation et de
+    l'\'electromagn\'etisme.}",
+language="French",
+publisher="{(Collection d'ouvrages de math\'ematiques \`a l'usage des
+    physiciens.) Paris: Masson et Cie., Editeurs. 298 p. }",
+year="1955",
+keywords="{relativity theory}",
+}
+
+@article{AndersonM2000,
+author="Anderson, Michael T.",
+title="{On the structure of solutions to the static vacuum Einstein
+    equations.}",
+language="English",
+year="2000",
+doi={10.1007/PL00001026},
+abstract="{The author considers the geometry of 3-manifold solutions $(M,g,u)$
+    of type $(0,1)$ (i.e. the space-like hypersurfaces) to study the
+    mathematical aspects of the equations (e.g. Einstein vacuum equations) and
+    their solutions including those which might not be relevant physically, for
+    example, a solution with negative mass is also allowed here.}",
+reviewer="{S.N.Pandey (Gorakhpur)}",
+keywords="{static vacuum; Einstein vacuum equations; negative mass}",
+classmath="{*83C15 (Closed form solutions of equations in general relativity)
+83C40 (Groups of motions, etc.)
+}",
+}
+
