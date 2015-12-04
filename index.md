@@ -59,53 +59,44 @@ Education
 
 
 
-Teaching Experience
--------------------
-
-2010.03 - 2010.09
-:   Teaching Assistant: Classical Mechanics. Potsdam University, Germany.
-
-2007.03 - 2008.03
-:   Teaching Assistant (Type A). FaMAF, UNC, Argentina.
-
-2005.03 - 2007.03
-:   Teaching Assistant (Type B). FaMAF, UNC, Argentina.
-
-
 Informatics skills
 ------------------
 
-OSs
-:   Linux (Ubuntu), Mac OS X
-
 Languages
 :   Python, JavaScript, SQL, Html5, CSS
-
-GIS, geolocation
-:   OpenStreetMap, JOSM, Merkaartor, Maperitive, Mapnik
 
 Client side
 :   Backbone.js, Angular.js, Openlayers.js, Google Maps API v3
 
 Server side
-:   WSGI Python (Flask, Bottle), Node.js (Express.js), RESTful APIs using SWAGGER,
+:   WSGI Python (Django, Flask, Bottle), Node.js (Express.js), RESTful APIs using SWAGGER,
 
 Databases
 :   PostgreSQL, SQLite, mongoDB,
 
+GIS, geolocation
+:   OpenStreetMap, JOSM, Mapnik
 
 
 Work experience
 ---------------
 
-
-08/2014 - now
-:   Sistemas Globales S. A., web UI analyst Senior. 
-    Tech Lead in hybrid proyect using angularjs + cordova for iPhone. Client: Virgin Mega
+06/2015 - now
+:   Junar.com, web UI analyst Senior.
+    Frontend developer.
 
 04/2014 - now
 :   Ministerio de Transporte de la Provincia de Mendoza, technical advisor in
     applications to public transit. Web apps for geo-location, data analysis and modeling.
+    Integration Lead for public transit data for google maps.
+
+06/2015 - 11/2015
+:   bahia.presupuestoabierto.org, Web UI analyst.
+    Frontend developer (Angular.js). SQL analyst (Oracle).
+
+08/2014 - 06/2015
+:   Sistemas Globales S. A., Web UI analyst Senior.
+    Tech Lead in hybrid proyect using angularjs + cordova for iPhone. Client: Virgin Mega
 
 04/2013 - 08/2014
 :   Sistemas Globales S. A., web UI analyst. Tech Lead in node.js + Backbone.js.
@@ -114,6 +105,7 @@ Work experience
 12/2011 - 06/2014
 :   Municipalidad de Córdoba, technical advisor in applications to public transit.
     Comisión de Movilidad Integral. Web apps for geo-location, data analysis and modeling.
+    Responsible for the integration of city transit data with Google Inc.
 
 04/2008 - 11/2011
 :   Max Planck Institute for Gravitational Physics, Albert Einstein Institute.
@@ -129,6 +121,19 @@ Spanish
 English
 :   Professional proficiency
 
+
+
+Teaching Experience
+-------------------
+
+2010.03 - 2010.09
+:   Teaching Assistant: Classical Mechanics. Potsdam University, Germany.
+
+2007.03 - 2008.03
+:   Teaching Assistant (Type A). FaMAF, UNC, Argentina.
+
+2005.03 - 2007.03
+:   Teaching Assistant (Type B). FaMAF, UNC, Argentina.
 
 
 Honors
