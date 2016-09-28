@@ -1,19 +1,21 @@
-Gastón A. Avila, PhD
-====================
 
-* * * * *
 
-  Physicist, Software developer  
-   Python, Javascript, Linux
+GASTÓN A. AVILA, PHD
 
-  I am Argentinean, living in Córdoba. I like to build things.  
+
+------------------------------------------------------------------------
+
+  Physicist, Software developer
+   PYTHON, JAVASCRIPT, LINUX
+
+  I am Argentinean, living in Córdoba. I like to build things.
   Generalization and solving large problems elegantly and efficiently
   motivate me. I like big cities and public transport.
 
-* * * * *
+------------------------------------------------------------------------
+
 
 Personal Information:
----------------------
 
 Date of Birth
     16th of august 1982
@@ -22,8 +24,8 @@ Nacionalities
     Argentine, Italian
 
 Work address
-    Capitalinas Building, Humberto Primo 630, 3th floor 5000, Córdoba,
-    +54 11 4109 1700
+    Capitalinas Building, Humberto Primo 630, 3th floor 5000,
+    Córdoba, +54 11 4109 1700
 
 Private address
     9 de Julio 2108, 2do A, X5003CQL, Cordoba, Argentina
@@ -37,19 +39,21 @@ E-mail
 Github
     github.com/avilaton
 
+
 Education
----------
 
 2008.05 - 2011.10
-    PhD. Theorethical Physics, Potsdam University, Germany.
+
+    _PhD. Theorethical Physics, Potsdam University, Germany._
 
     Advisor: Prof. Helmut Friedrich. Supported by and carried out at the
     Max Planck Institute for Gravitational Physics (Albert Einstein
     Institute)
 
 2002.04 - 2008.04
-    Licenciatura en Física, FaMAF, Universidad Nacional de Córdoba,
-    Argentina.
+
+    _Licenciatura en Física, FaMAF, Universidad Nacional de Córdoba,
+    Argentina._
 
     Average grade obtained 9.57 out of 10. Graduated on the 2008.03.27.
 
@@ -58,8 +62,8 @@ Education
     Máquinas Herramienta, Instituto Técnico Renault, Córdoba, Argentina.
     Graduated with the highest average grade of the class of 2011.
 
+
 Informatics skills
-------------------
 
 Languages
     Python, JavaScript, SQL, Html5, CSS
@@ -77,13 +81,20 @@ Databases
 GIS, geolocation
     OpenStreetMap, JOSM, Mapnik
 
+
 Work experience
----------------
 
-06/2015 - now
-    Junar.com, web UI analyst Senior. Frontend developer.
+01/2016 - present
+    Squaretrade.com, senior web analyst. Uses Flask and Angularjs to
+    build an application responsible for the operation of mobile
+    technicians and scheduling/managing phone repairs over different
+    cities in the US. (Flask, Angularjs, Webpack).
 
-04/2014 - now
+06/2015 - 01/2016
+    Junar.com, web UI analyst Senior. Frontend developer. (Django,
+    Backbone).
+
+04/2014 - 06/2016
     Ministerio de Transporte de la Provincia de Mendoza, technical
     advisor in applications to public transit. Web apps for
     geo-location, data analysis and modeling. Integration Lead for
@@ -111,8 +122,8 @@ Work experience
     Max Planck Institute for Gravitational Physics, Albert Einstein
     Institute.
 
+
 Languages
----------
 
 Spanish
     Native.
@@ -120,8 +131,8 @@ Spanish
 English
     Professional proficiency
 
+
 Teaching Experience
--------------------
 
 2010.03 - 2010.09
     Teaching Assistant: Classical Mechanics. Potsdam University,
@@ -133,8 +144,8 @@ Teaching Experience
 2005.03 - 2007.03
     Teaching Assistant (Type B). FaMAF, UNC, Argentina.
 
+
 Honors
-------
 
 2001
     Graduated Top GPA of the Senior class - Instituto Técnico Renault.
@@ -142,19 +153,19 @@ Honors
 2001
     Awarded Academic Excellence Price, by Banco Roela, Argentina.
 
+
 Publications
-------------
 
--   Asymptotic staticity and tensor decompositions with fast decay
-    conditions, (Doctoral disertation), Gastón A Avila, PhD, 07.10.2011.
-    Institutional Repository of the University of Potsdam
+-   _Asymptotic staticity and tensor decompositions with fast decay
+    conditions_, (Doctoral disertation), Gastón A Avila, PhD,
+    07.10.2011. Institutional Repository of the University of Potsdam
 
--   The Yamabe invariant for axially symmetric initial data of two Kerr
-    black holes. Gastón A Avila and Sergio Dain. Classical and Quantum
+-   _The Yamabe invariant for axially symmetric initial data of two Kerr
+    black holes._ Gastón A Avila and Sergio Dain. Classical and Quantum
     Gravity, 25(22):225002 (13pp), 2008.
 
+
 Talks
------
 
 -   Tensor decompositions with fast decay conditions at space-like
     infinity, Grav11 - FaMAF, Córdoba, Argentina. 11/04/2011.
@@ -166,8 +177,8 @@ Talks
 -   The Yamabe invariant for axially symmetric two Kerr black holes
     initial data, Grav09 - Córdoba Argentina. 15/04/2009.
 
+
 Scientific Meetings
--------------------
 
 -   Grav11, Congress on General Relativity and Gravitation (FaMAF), La
     Cumbre, Córdoba, Argentina. 11/04/2011 - 15/04/2009.
@@ -190,7 +201,7 @@ Scientific Meetings
 -   Grav06, Fifty years of FaMAF Workshop on Global Problems in GR,
     FaMAF, Córdoba, Argentina. 6/10/2006 - 11/10/2006.
 
-* * * * *
+------------------------------------------------------------------------
 
-  avila.gas@gmail.com • +5493512055880  
+  avila.gas@gmail.com • +5493512055880
    9 de Julio 2108, 2do A, X5003CQL, Cordoba, ARGENTINA

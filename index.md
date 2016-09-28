@@ -81,11 +81,17 @@ GIS, geolocation
 Work experience
 ---------------
 
-06/2015 - now
-:   Junar.com, web UI analyst Senior.
-    Frontend developer.
+01/2016 - present
+:   Squaretrade.com, senior web analyst.
+    Uses Flask and Angularjs to build an application responsible for the operation of mobile
+    technicians and scheduling/managing phone repairs over different cities in the US.
+    (Flask, Angularjs, Webpack).
 
-04/2014 - now
+06/2015 - 01/2016
+:   Junar.com, web UI analyst Senior.
+    Frontend developer. (Django, Backbone).
+
+04/2014 - 06/2016
 :   Ministerio de Transporte de la Provincia de Mendoza, technical advisor in
     applications to public transit. Web apps for geo-location, data analysis and modeling.
     Integration Lead for public transit data for google maps.
