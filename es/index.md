@@ -1,0 +1,211 @@
+Gastón A. Avila, PhD
+=====================
+
+---------------------------------------------------------------
+
+>  Physicist, Software developer\
+>  **Python**, **Javascript**, **Linux**
+
+> I am Argentinean, living in Córdoba. I like to build things.\
+Generalization and solving large problems elegantly and efficiently motivate me.
+I like big cities and public transport.
+
+---------------------------------------------------------------
+
+
+Personal Information:
+---------------------
+
+Date of Birth
+:   16th of august 1982
+
+Nacionalities
+:    Argentine, Italian
+
+Work address
+:   Capitalinas Building, Humberto Primo 630, 3th floor
+    5000, Córdoba, +54 11 4109 1700
+
+Private address
+:   Almirante Brown 340, X5002IWH, Cordoba, Argentina
+
+Phone Number
+:   +549 3512 055 880
+
+E-mail
+:   <avila.gas@gmail.com>
+
+Github
+:   [github.com/avilaton](https://github.com/avilaton)
+
+
+Education
+---------
+
+2008.05 - 2011.10
+:   *PhD. Theorethical Physics, Potsdam University, Germany.*
+
+    Advisor: Prof. Helmut Friedrich. Supported by and carried out at the Max
+    Planck Institute for Gravitational Physics (Albert Einstein Institute)
+
+2002.04 - 2008.04
+:   *Licenciatura en Física, FaMAF, Universidad Nacional de Córdoba, Argentina.*
+
+    Graduated March 27th, 2008. Grade point average 9.57 out of 10. 
+
+1996 - 2001
+:   High School: Bachiller Técnico Metal-Meácnico especialista en Máquinas 
+    Herramienta, Instituto Técnico Renault, Córdoba,
+    Argentina. Graduated with the highest average grade of the class of 2011.
+
+
+
+Informatics skills
+------------------
+
+Backend
+:   WSGI Python (Django, Flask, Bottle), Node.js (Express.js), RESTful APIs using SWAGGER,
+
+Frontend
+:   Angular.js, Backbone.js, Openlayers.js, Google Maps API v3
+
+Databases
+:   PostgreSQL, SQLite, mongoDB,
+
+GIS, geolocation
+:   OpenStreetMap, JOSM, Mapnik
+
+
+Work experience
+---------------
+
+01/2016 - present
+:   Squaretrade.com, senior web developer.
+    Uses Flask and Angularjs to build an application responsible for the operation of mobile
+    technicians and scheduling/managing phone repairs over different cities in the US.
+    (Flask, Angularjs, Webpack, Postgresql, AWS Elasticbeanstalk).
+
+06/2015 - 01/2016
+:   Junar.com, web UI analyst Senior.
+    Frontend developer. (Django, Backbone).
+
+04/2014 - 06/2016
+:   Ministerio de Transporte de la Provincia de Mendoza, technical advisor in
+    applications to public transit. Web apps for geo-location, data analysis and modeling.
+    Integration Lead for public transit data for google maps.
+
+06/2015 - 11/2015
+:   bahia.presupuestoabierto.org, Web UI analyst.
+    Frontend developer (Angular.js). SQL analyst (Oracle).
+
+08/2014 - 06/2015
+:   Sistemas Globales S. A., Web UI analyst Senior.
+    Tech Lead in hybrid proyect using angularjs + cordova for iPhone. Client: Virgin Mega
+
+04/2013 - 08/2014
+:   Sistemas Globales S. A., web UI analyst. Tech Lead in node.js + Backbone.js.
+    Client: Thomas Cook
+
+12/2011 - 06/2014
+:   Municipalidad de Córdoba, technical advisor in applications to public transit.
+    Comisión de Movilidad Integral. Web apps for geo-location, data analysis and modeling.
+    Responsible for the integration of city transit data with Google Inc.
+
+04/2008 - 11/2011
+:   Max Planck Institute for Gravitational Physics, Albert Einstein Institute.
+
+
+
+Languages
+---------
+
+Spanish
+:   Native.
+
+English
+:   Professional proficiency
+
+
+
+Teaching Experience
+-------------------
+
+2010.03 - 2010.09
+:   Teaching Assistant: Classical Mechanics. Potsdam University, Germany.
+
+2007.03 - 2008.03
+:   Teaching Assistant (Type A). FaMAF, UNC, Argentina.
+
+2005.03 - 2007.03
+:   Teaching Assistant (Type B). FaMAF, UNC, Argentina.
+
+
+Honors
+------
+
+2001
+:   Graduated Top GPA of the Senior class - Instituto Técnico Renault.
+
+2001
+:   Awarded Academic Excellence Price, by Banco Roela, Argentina.
+
+
+
+Publications
+------------
+
+- *Asymptotic staticity and tensor decompositions with fast decay conditions*,
+(Doctoral disertation), Gastón A Avila, PhD, 07.10.2011.
+[Institutional Repository of the University of Potsdam](http://opus.kobv.de/ubp/volltexte/2011/5404/)
+
+- *The Yamabe invariant for axially symmetric initial data of two Kerr black
+holes.* Gastón A Avila and Sergio Dain.
+[Classical and Quantum Gravity, 25(22):225002 (13pp), 2008.](http://iopscience.iop.org/0264-9381/25/22/225002)
+
+
+
+Talks
+-----
+
+- Tensor decompositions with fast decay conditions at space-like infinity,
+Grav11 - FaMAF, Córdoba, Argentina. 11/04/2011.
+
+- Tensor decompositions with fast decay conditions at space-like infinity,
+Workshop on Mathematical Relativity - ESI, Vienna, Austria.
+28/01/2011.
+
+- The Yamabe invariant for axially symmetric two Kerr black holes initial data,
+Grav09 - Córdoba Argentina. 15/04/2009.
+
+
+
+Scientific Meetings
+-------------------
+
+- Grav11, Congress on General Relativity and Gravitation (FaMAF),
+La Cumbre, Córdoba, Argentina. 11/04/2011 - 15/04/2009. 
+
+- Workshop on Mathematical Relativity, International Centre for Mathematical
+Science - Edinburgh, UK. 1/09/2009 - 7/09/2010.
+
+- Seminar on Mathematical Relativity - Erwin Schroedinger Institute, Vienna,
+Austria. 27/01/2011 - 29/01/2011.
+
+- Space, Time and Beyond. Conference in honor of Helmut Friedrich's birthday.
+08/10/2009 - 09/10/2009.
+
+- Grav09, Congress on General Relativity and Gravitation, FaMAF, Córdoba,
+Argentina. 13/04/2009 - 17/04/2009.
+
+- Grav07, Congress on General Relativity and Gravitation, FaMAF, Córdoba,
+Argentina. 5/11/2007 - 7/11/2007.
+
+- Grav06, Fifty years of FaMAF Workshop on Global Problems in GR, FaMAF,
+Córdoba, Argentina. 6/10/2006 - 11/10/2006.
+
+
+---------------------------------------------------------------
+
+
+> <avila.gas@gmail.com> • +5493512055880\
+>  Almirante Brown 340, 2do A, X5002IWH, Cordoba, ARGENTINA
