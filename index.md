@@ -27,7 +27,7 @@ Work address
     5000, Córdoba, +54 11 4109 1700
 
 Private address
-:   9 de Julio 2108, 2do A, X5003CQL, Cordoba, Argentina
+:   Almirante Brown 340, X5002IWH, Cordoba, Argentina
 
 Phone Number
 :   +549 3512 055 880
@@ -37,6 +37,7 @@ E-mail
 
 Github
 :   [github.com/avilaton](https://github.com/avilaton)
+
 
 Education
 ---------
@@ -50,7 +51,7 @@ Education
 2002.04 - 2008.04
 :   *Licenciatura en Física, FaMAF, Universidad Nacional de Córdoba, Argentina.*
 
-    Average grade obtained 9.57 out of 10. Graduated on the 2008.03.27.
+    Graduated March 27th, 2008. Grade point average 9.57 out of 10. 
 
 1996 - 2001
 :   High School: Bachiller Técnico Metal-Meácnico especialista en Máquinas 
@@ -62,14 +63,11 @@ Education
 Informatics skills
 ------------------
 
-Languages
-:   Python, JavaScript, SQL, Html5, CSS
-
-Client side
-:   Backbone.js, Angular.js, Openlayers.js, Google Maps API v3
-
-Server side
+Backend
 :   WSGI Python (Django, Flask, Bottle), Node.js (Express.js), RESTful APIs using SWAGGER,
+
+Frontend
+:   Angular.js, Backbone.js, Openlayers.js, Google Maps API v3
 
 Databases
 :   PostgreSQL, SQLite, mongoDB,
@@ -82,10 +80,10 @@ Work experience
 ---------------
 
 01/2016 - present
-:   Squaretrade.com, senior web analyst.
+:   Squaretrade.com, senior web developer.
     Uses Flask and Angularjs to build an application responsible for the operation of mobile
     technicians and scheduling/managing phone repairs over different cities in the US.
-    (Flask, Angularjs, Webpack).
+    (Flask, Angularjs, Webpack, Postgresql, AWS Elasticbeanstalk).
 
 06/2015 - 01/2016
 :   Junar.com, web UI analyst Senior.
@@ -210,4 +208,4 @@ Córdoba, Argentina. 6/10/2006 - 11/10/2006.
 
 
 > <avila.gas@gmail.com> • +5493512055880\
->  9 de Julio 2108, 2do A, X5003CQL, Cordoba, ARGENTINA
+>  Almirante Brown 340, 2do A, X5002IWH, Cordoba, ARGENTINA
