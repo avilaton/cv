@@ -3,155 +3,153 @@ Gastón A. Avila, PhD
 
 ---------------------------------------------------------------
 
->  Physicist, Software developer\
->  **Python**, **Javascript**, **Linux**
+> Físico, Desarrollador de Software \
+> ** Python **, ** Javascript **, ** Linux **
 
-> I am Argentinean, living in Córdoba. I like to build things.\
-Generalization and solving large problems elegantly and efficiently motivate me.
-I like big cities and public transport.
+> Argentino, Cordobés.
 
 ---------------------------------------------------------------
 
 
-Personal Information:
+Informacion personal:
 ---------------------
 
-Date of Birth
-:   16th of august 1982
+: 16 de agosto de 1982
 
-Nacionalities
-:    Argentine, Italian
+Nacionalidades
+: Argentino, italiano
 
-Work address
-:   Capitalinas Building, Humberto Primo 630, 3th floor
+Dirección de trabajo
+: Edificio Capitalinas, Humberto Primo 630, 3 ° piso
     5000, Córdoba, +54 11 4109 1700
 
-Private address
-:   Almirante Brown 340, X5002IWH, Cordoba, Argentina
+Dirección privada
+: Almirante Brown 340, X5002IWH, Cordoba, Argentina
 
-Phone Number
-:   +549 3512 055 880
+Número de teléfono
+: +549 3512 055 880
 
-E-mail
-:   <avila.gas@gmail.com>
+Email
+: <avila.gas@gmail.com>
 
 Github
-:   [github.com/avilaton](https://github.com/avilaton)
+: [github.com/avilaton](https://github.com/avilaton)
 
 
-Education
+Educación
 ---------
 
 2008.05 - 2011.10
-:   *PhD. Theorethical Physics, Potsdam University, Germany.*
+: * PhD. Física teórica, Universidad de Potsdam, Alemania. *
 
-    Advisor: Prof. Helmut Friedrich. Supported by and carried out at the Max
-    Planck Institute for Gravitational Physics (Albert Einstein Institute)
+    Asesor: Prof. Helmut Friedrich. Apoyado y llevado a cabo en el Max
+    Instituto Planck de Física Gravitacional (Instituto Albert Einstein)
 
 2002.04 - 2008.04
-:   *Licenciatura en Física, FaMAF, Universidad Nacional de Córdoba, Argentina.*
+: * Licenciatura en Física, FaMAF, Universidad Nacional de Córdoba, Argentina. *
 
-    Graduated March 27th, 2008. Grade point average 9.57 out of 10. 
+    Se graduó el 27 de marzo de 2008. Promedio de calificaciones 9.57 de 10.
 
 1996 - 2001
-:   High School: Bachiller Técnico Metal-Meácnico especialista en Máquinas 
+: Escuela Secundaria: Bachiller Técnico Metal-Meácnico especialista en Máquinas
     Herramienta, Instituto Técnico Renault, Córdoba,
-    Argentina. Graduated with the highest average grade of the class of 2011.
+    Argentina. Graduado con la calificación promedio más alta de la clase de 2011.
 
 
 
-Informatics skills
+Habilidades informáticas
 ------------------
 
 Backend
-:   WSGI Python (Django, Flask, Bottle), Node.js (Express.js), RESTful APIs using SWAGGER,
+: WSGI Python (Django, Flask, Bottle), Node.js (Express.js), RESTful APIs usando SWAGGER,
 
 Frontend
-:   Angular.js, Backbone.js, Openlayers.js, Google Maps API v3
+: Angular.js, Backbone.js, Openlayers.js, Google Maps API v3
 
-Databases
-:   PostgreSQL, SQLite, mongoDB,
+Bases de datos
+: PostgreSQL, SQLite, mongoDB,
 
-GIS, geolocation
-:   OpenStreetMap, JOSM, Mapnik
+SIG, geolocalización
+: OpenStreetMap, JOSM, Mapnik, GTFS
 
 
-Work experience
+Experiencia laboral
 ---------------
 
-01/2016 - present
-:   Squaretrade.com, senior web developer.
-    Uses Flask and Angularjs to build an application responsible for the operation of mobile
-    technicians and scheduling/managing phone repairs over different cities in the US.
+01/2016 - presente
+: Squaretrade.com, desarrollador web senior.
+    Utiliza Flask y Angularjs para crear una aplicación responsable de la operación de dispositivos móviles
+    técnicos y programación / administración de reparaciones telefónicas en diferentes ciudades de los EE. UU.
     (Flask, Angularjs, Webpack, Postgresql, AWS Elasticbeanstalk).
 
 06/2015 - 01/2016
-:   Junar.com, web UI analyst Senior.
-    Frontend developer. (Django, Backbone).
+: Junar.com, analista de la interfaz de usuario web Senior.
+    Desarrollador frontend (Django, Backbone.js).
 
 04/2014 - 06/2016
-:   Ministerio de Transporte de la Provincia de Mendoza, technical advisor in
-    applications to public transit. Web apps for geo-location, data analysis and modeling.
-    Integration Lead for public transit data for google maps.
+: Ministerio de Transporte de la Provincia de Mendoza, asesor técnico en
+    aplicaciones al transporte público. Aplicaciones web para geolocalización, análisis de datos y modelado.
+    Líder de integración para datos de tránsito público para google maps.
 
 06/2015 - 11/2015
-:   bahia.presupuestoabierto.org, Web UI analyst.
-    Frontend developer (Angular.js). SQL analyst (Oracle).
+: bahia.presupuestoabierto.org, analista de la interfaz de usuario web.
+    Desarrollador frontend (Angular.js). Analista de SQL (Oracle).
 
 08/2014 - 06/2015
-:   Sistemas Globales S. A., Web UI analyst Senior.
-    Tech Lead in hybrid proyect using angularjs + cordova for iPhone. Client: Virgin Mega
+: GLobant (Sistemas Globales S.A.), Analista de UI Web Senior.
+    Tech Lead en proyecto híbrido usando angularjs + cordova para iPhone.
+    Cliente: Virgin Mega
 
 04/2013 - 08/2014
-:   Sistemas Globales S. A., web UI analyst. Tech Lead in node.js + Backbone.js.
-    Client: Thomas Cook
+: GLobant (Sistemas Globales S.A.), Analista de UI Web Senior. Tech Lead en node.js + Backbone.js.
+    Cliente: Thomas Cook
 
 12/2011 - 06/2014
-:   Municipalidad de Córdoba, technical advisor in applications to public transit.
-    Comisión de Movilidad Integral. Web apps for geo-location, data analysis and modeling.
-    Responsible for the integration of city transit data with Google Inc.
+: Municipalidad de Córdoba, asesor técnico en aplicaciones al tránsito público.
+    Comisión de Movilidad Integral. Aplicaciones web para geolocalización, análisis de datos y modelado.
+    Responsable de la integración de los datos de tránsito de la ciudad con Google Inc.
 
 04/2008 - 11/2011
-:   Max Planck Institute for Gravitational Physics, Albert Einstein Institute.
+: Instituto Max Planck de Física Gravitacional, Instituto Albert Einstein.
 
 
 
-Languages
+Idiomas
 ---------
 
-Spanish
-:   Native.
+Español
+:   Nativo.
 
-English
-:   Professional proficiency
+Inglés
+:   Competencia profesional
 
 
 
-Teaching Experience
+Experiencia en educación
 -------------------
 
 2010.03 - 2010.09
-:   Teaching Assistant: Classical Mechanics. Potsdam University, Germany.
+: Ayudante de alumno: Mecánica clásica. Universidad de Potsdam, Alemania.
 
 2007.03 - 2008.03
-:   Teaching Assistant (Type A). FaMAF, UNC, Argentina.
+: Asistente de alumno (Tipo A). FaMAF, UNC, Argentina.
 
 2005.03 - 2007.03
-:   Teaching Assistant (Type B). FaMAF, UNC, Argentina.
+: Asistente de alumno (Tipo B). FaMAF, UNC, Argentina.
 
 
-Honors
+Honores
 ------
 
 2001
-:   Graduated Top GPA of the Senior class - Instituto Técnico Renault.
+: GPA superior graduado de la clase Senior - Instituto Técnico Renault.
 
 2001
-:   Awarded Academic Excellence Price, by Banco Roela, Argentina.
+: Premio a la Excelencia Académica, otorgado por Banco Roela, Argentina.
 
 
 
-Publications
+Publicaciones
 ------------
 
 - *Asymptotic staticity and tensor decompositions with fast decay conditions*,
@@ -164,7 +162,7 @@ holes.* Gastón A Avila and Sergio Dain.
 
 
 
-Talks
+Charlas en conferencias
 -----
 
 - Tensor decompositions with fast decay conditions at space-like infinity,
@@ -179,7 +177,7 @@ Grav09 - Córdoba Argentina. 15/04/2009.
 
 
 
-Scientific Meetings
+Reuniones científicas
 -------------------
 
 - Grav11, Congress on General Relativity and Gravitation (FaMAF),
