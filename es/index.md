@@ -4,7 +4,7 @@ Gastón A. Avila, PhD
 ---------------------------------------------------------------
 
 > Físico, Desarrollador de Software \
-> ** Python **, ** Javascript **, ** Linux **
+> **Python**, **Javascript**, **Linux**
 
 > Argentino, Cordobés.
 
@@ -14,6 +14,7 @@ Gastón A. Avila, PhD
 Informacion personal:
 ---------------------
 
+Fecha de nacimiento
 : 16 de agosto de 1982
 
 Nacionalidades
